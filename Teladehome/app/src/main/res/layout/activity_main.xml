@@ -53,6 +53,7 @@
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintTop_toBottomOf="@+id/text_cate"
+
         app:layout_constraintVertical_bias="0.0"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -61,8 +62,8 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
-        android:paddingHorizontal="15dp"
-        android:paddingTop="15dp"
+        android:paddingHorizontal="17dp"
+        android:paddingTop="20dp"
         android:background="@drawable/shape_container_categoria"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view">
