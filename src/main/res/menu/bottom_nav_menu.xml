@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item_game"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/item_win"
+        android:title="Notificação"
+        android:icon="@drawable/ic_notifi"/>
+
+    <item android:id="@+id/item_lose"
+        android:title="Perfil"
+        android:icon="@drawable/ic_person"/>
+
+    <item android:id="@+id/item_time"
+        android:title="Projetos"
+        android:icon="@drawable/ic_projetos"/>
+
+    <item android:id="@+id/Chat"
+        android:title="Equipe"
+        android:icon="@drawable/ic_baseline_groups_24"/>
+</menu>

@@ -36,11 +36,11 @@
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
-                    <ImageView
-                        android:src="@drawable/rank"
-                        android:layout_gravity="center"
-                        android:layout_width="68dp"
-                        android:layout_height="25dp"/>
+                <ImageView
+                    android:layout_width="68dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/rank" />
 
                 <TextView
                     android:layout_width="match_parent"
